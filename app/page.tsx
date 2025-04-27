@@ -103,7 +103,7 @@ export default function Home() {
               <p className="mb-8 text-lg text-gray-300">
                 Discover how J.A.R.V.I.S. can transform your digital experience with advanced AI capabilities.
               </p>
-              <Button className="bg-gradient-to-r from-cyan-500 to-blue-500 px-8 py-6 text-lg font-semibold hover:from-cyan-600 hover:to-blue-600"><a href="https://inspiring-khapse-12475d.netlify.app/">
+              <Button className="bg-gradient-to-r from-cyan-500 to-blue-500 px-8 py-6 text-lg font-semibold hover:from-cyan-600 hover:to-blue-600"><a href="https://v0-new-project-aawnht4dnen-hrw7yb0ig-sathwiks-projects-814254d4.vercel.app/">
                 Get Started with J.A.R.V.I.S.
                 </a>
               </Button>
